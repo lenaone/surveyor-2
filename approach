@@ -1,0 +1,14 @@
+Follow the steps 
+
+what a description given to me :) 
+
+1. Make the tests pass
+
+check it out with 01_survey_spec.rb -- passed all the tests!
+
+2. RatingQuestion and FreeTextQuestion classes to make the test pass!!
+Qustion class > Those rating and freetext question class. --> both classes inherit from the Question class.
+
+all question have title attribute. able to ask questions to survery and ask a survey what its questions are.
+
+test for 02_question_spec.rb for section.
